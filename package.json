@@ -1,0 +1,23 @@
+{
+  "name": "natorus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mleczko2001xd/Project2.git"
+  },
+  "author": "Emanuel Pabis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mleczko2001xd/Project2/issues"
+  },
+  "homepage": "https://github.com/mleczko2001xd/Project2#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+
+}
